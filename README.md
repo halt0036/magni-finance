@@ -1,0 +1,2 @@
+# magni-finance
+Desafio Técnico
